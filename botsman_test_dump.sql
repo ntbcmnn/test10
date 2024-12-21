@@ -18,6 +18,7 @@
 --
 -- Table structure for table `comments`
 --
+use news_db_botsman;
 
 DROP TABLE IF EXISTS `comments`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
