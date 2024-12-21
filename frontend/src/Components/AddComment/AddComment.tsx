@@ -34,7 +34,6 @@ const AddComment: React.FC<Props> = ({newsId, onSubmit}) => {
 
   return (
     <>
-      <h3 className="text-center">Create a new message</h3>
       <form onSubmit={onFormSubmit} className="my-5">
         <div className="mb-3">
           <input
